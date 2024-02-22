@@ -1,7 +1,5 @@
 package school.hei.sarisary.endpoint.rest.controller.health;
 
-
-
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PutMapping;
